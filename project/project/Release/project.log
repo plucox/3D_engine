@@ -1,0 +1,13 @@
+﻿  project.cpp
+C:\Users\exeve\Desktop\SILNIK 3D\project\project\project.cpp(609,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\exeve\Desktop\SILNIK 3D\project\project\project.cpp(609,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\exeve\Desktop\SILNIK 3D\project\project\project.cpp(609,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\exeve\Desktop\SILNIK 3D\project\project\project.cpp(609,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\exeve\Desktop\SILNIK 3D\project\project\project.cpp(609,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\exeve\Desktop\SILNIK 3D\project\project\project.cpp(609,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 623 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  project.vcxproj -> C:\Users\exeve\Desktop\SILNIK 3D\project\Release\project.exe

@@ -1,0 +1,9 @@
+﻿  project.cpp
+C:\Users\exeve\Desktop\SILNIK 3D\project\project\project.cpp(605,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\exeve\Desktop\SILNIK 3D\project\project\project.cpp(605,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\exeve\Desktop\SILNIK 3D\project\project\project.cpp(605,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\exeve\Desktop\SILNIK 3D\project\project\project.cpp(605,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\exeve\Desktop\SILNIK 3D\project\project\project.cpp(605,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\exeve\Desktop\SILNIK 3D\project\project\project.cpp(605,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\exeve\Desktop\SILNIK 3D\project\project\project.cpp(361): warning C4715: 'engine3D::Triangle_ClipAgainstPlane': not all control paths return a value
+  project.vcxproj -> C:\Users\exeve\Desktop\SILNIK 3D\project\Debug\project.exe
